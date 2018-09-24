@@ -1,0 +1,67 @@
+html{
+  background-color: rgb(253, 242, 255);
+}
+body{
+  font-family:'Lato', 'Noto Sans Japanese', '游ゴシック Medium', '游ゴシック体', 'Yu Gothic Medium', YuGothic, 'ヒラギノ角ゴ ProN', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+
+}
+
+
+
+
+
+.wrapper{
+  margin: 40px 20%;
+}
+
+.greeting{
+  background-color:rgb(210, 187, 157);
+  padding:20px 15% 30px;
+  border-radius: 9px;
+  text-align: center;
+  letter-spacing: 2px;
+}
+.box{
+  margin: 20px 0;
+  padding:20px 15% 30px;
+  border-radius: 9px;
+  letter-spacing: 2px;
+  opacity: 0.3;
+  transition: all 0.5s;
+
+}
+
+
+.box:hover{
+  opacity: 1;
+
+}
+
+.basic-information{
+  background: rgb(183, 236, 187);
+}
+
+ h2{
+  text-align: center;
+}
+
+.information{
+  margin-top: 10px;
+}
+
+.libertycamp-reason{
+  background-color: rgb(237, 194, 226);
+}
+
+.future{
+  background-color: rgb(249, 231, 191);
+}
+
+.skill{
+  background-color: rgb(173, 228, 240);
+}
+
+ul{
+  width: 60%;
+  margin: auto;
+}
